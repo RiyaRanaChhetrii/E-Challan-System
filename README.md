@@ -1,6 +1,6 @@
 # E-Challan-System
-# Riya rana chhetri - PM
-# Anmol - BA
-# Aarav Pradhan - Team Leader
-# Tisha Shrestha - Developer
-# Monaj Kumar Gurung - Developer
+# Pm_Riya rana chhetri
+# BA_Anmol 
+# LeadDeveloper_Aarav Pradhan
+# Developer_Tisha Shrestha
+# Developer_Monaj Kumar Gurung
