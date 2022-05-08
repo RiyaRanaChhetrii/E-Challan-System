@@ -1,0 +1,21 @@
+* {
+    font-size: 10.5pt;
+}
+
+.bg-custom{
+    background-color: #114FB3;
+}
+
+.btn-color{
+    background-color: #110755;
+    color: white;
+}
+
+.btn-color:hover {
+    background-color:#114FB3;
+    color: white;
+}
+
+.backRound{
+    border-radius: 15px;
+}
